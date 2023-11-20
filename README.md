@@ -6,3 +6,4 @@ meu nome é pamela
 -aqui terá aula de JavaScript e HMTL
 
 -pamela.regina.santos@escola.pr.gov.br
+![](https://media.tenor.com/SHyz7o4q4zYAAAAM/hmmm-thinking.gif)
